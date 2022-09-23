@@ -24,3 +24,37 @@
 <h1 align="center">
 <img  src="./github/image-2.png" alt="" />
 </h1>
+
+<h2>🛠 Tecnologias</h2>
+<p>As seguintes tecnologias foram empregadas na criação deste projeto:</p>
+<ul>
+<li>
+<a href="#Sobre">ReactJs</a> 
+</li>
+<li>
+<a href="#Layout">Node.js</a> 
+</li>
+<li>
+<a href="#Tecnologias">Tailwindcss</a> 
+</li>
+<li>
+<a href="#Infos">Javascript</a> 
+</li>
+<li>
+<a href="#ultilizar">Typescript</a>
+</li>
+<li>
+<a href="#Sobre">Expo</a> 
+</li>
+<li>
+<a href="#Layout">Radix UI</a> 
+</li>
+<li>
+<a href="#Tecnologias">Phosphoricons</a> 
+</li>
+<li>
+<a href="#Layout">Prisma ORM</a> 
+</li>
+<li>
+<a href="#Tecnologias">Vite</a> 
+</li>
