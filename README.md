@@ -11,11 +11,11 @@
 <a href="#ultilizar">Como ultilizar</a> |
 </p>
 
-<h1>💻 Sobre</h2>
+<h2>💻 Sobre</h2>
 <p>NLW eSports - É uma aplicação WEB para ajudar os players a encontrarem parceiros para jogarem juntos. O projeto conta com uma lista de games predefinida. Em cada um deles é possível ver os anúncios de outros usuários buscando parceiros, e ainda é possível criar um anúncio para buscar novos colegas de game.</p>
 <br>
 
-<h1>🎨 Layout</h2>
+<h2>🎨 Layout</h2>
 <p>Veja o Layout da aplicação a seguir</p>
 
 <h1 align="center">
@@ -58,3 +58,14 @@
 <li>
 <a href="#Tecnologias">Vite</a> 
 </li>
+
+<h2>🚀 Infos</h2>
+<p>Este projeto é composto por 2 partes distintas:</p>
+<br>
+<p>>1. Backend (server)</p>
+<p>2. Frontend (web)</p>
+
+<h2>🚀 Como utilizar</h2>
+<p>💡 O Frontend precisa que o Backend esteja em execução para funcionar.</p>
+<br>
+<h2>Pré-requisitos</h2>
