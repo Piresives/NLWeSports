@@ -1,6 +1,6 @@
 <img align="center" src="./github/Logo.svg" alt="" />
 
-<h1>NLW eSports | Ignite - Rocketseat 🚀</h1>
+<h1 align="center">NLW eSports | Ignite - Rocketseat 🚀</h1>
 
 <p align="center">
 <a href="#Sobre">Sobre</a> |
