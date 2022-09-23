@@ -11,5 +11,16 @@
 <a href="#ultilizar">Como ultilizar</a> |
 </p>
 
+<h1>💻 Sobre</h2>
+<p>NLW eSports - É uma aplicação WEB para ajudar os players a encontrarem parceiros para jogarem juntos. O projeto conta com uma lista de games predefinida. Em cada um deles é possível ver os anúncios de outros usuários buscando parceiros, e ainda é possível criar um anúncio para buscar novos colegas de game.</p>
 <br>
-<h4 align="center">🚧  Projeto REDME em construção...  🚧</h4>
+
+<h1>🎨 Layout</h2>
+<p>Veja o Layout da aplicação a seguir</p>
+
+<h1 align="center">
+<img  src="./github/image-1.png" alt="" />
+</h1>
+<h1 align="center">
+<img  src="./github/image-2.png" alt="" />
+</h1>
