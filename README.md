@@ -1,4 +1,7 @@
 <img align="center" src="./github/Logo.svg" alt="" />
+
+<h1>NLW eSports | Ignite - Rocketseat 🚀</h1>
+
 <p align="center">
 <a href="#Sobre">Sobre</a> |
 <a href="#Layout">Layout</a> |
@@ -8,3 +11,4 @@
 </p>
 
 <br>
+<h4 align="center">🚧  Projeto REDME em construção...  🚧</h4>
