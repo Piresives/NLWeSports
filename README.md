@@ -66,6 +66,5 @@
 <p>2. Frontend (web)</p>
 
 <h2>🚀 Como utilizar</h2>
-<p>💡 O Frontend precisa que o Backend esteja em execução para funcionar.</p>
-<br>
+<p>💡O Frontend precisa que o Backend esteja em execução para funcionar.</p>
 <h2>Pré-requisitos</h2>
