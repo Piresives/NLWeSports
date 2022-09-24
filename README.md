@@ -28,14 +28,14 @@
 <h2 id="Tecnologia">🛠 Tecnologias</h2>
 <p>As seguintes tecnologias foram empregadas na criação deste projeto:</p>
 
--[ReactJs](https://reactjs.org/)
--[Node.js](https://nodejs.org/en/)
--[Tailwindcss](https://tailwindcss.com/)
--[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
--[Typescript](https://www.typescriptlang.org/)
--[Radix UI](https://www.radix-ui.com/)
--[Phosphoricons](https://phosphoricons.com/)
--[Prisma ORM](https://www.prisma.io//)
+-[ReactJs](https://reactjs.org/)<br>
+-[Node.js](https://nodejs.org/en/)<br>
+-[Tailwindcss](https://tailwindcss.com/)<br>
+-[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br>
+-[Typescript](https://www.typescriptlang.org/)<br>
+-[Radix UI](https://www.radix-ui.com/)<br>
+-[Phosphoricons](https://phosphoricons.com/)<br>
+-[Prisma ORM](https://www.prisma.io//)<br>
 -[Vite](https://vitejs.dev/)
 
 <h2 id="Infos">🚀 Infos</h2>
@@ -82,6 +82,6 @@ $ npm run dev
 # Confira se o servidor está em execução e abra ele no seu navegador preferido. Por padrão, o endereço de execução deverá ser esse:
 $ http://localhost:5173/  
 ```
-
+---
 Made with 💚 by Ives Pires 👋 [See my LinkedIn](https://www.linkedin.com/in/ives-pires-de-miranda/)
 
