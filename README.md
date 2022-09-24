@@ -86,3 +86,4 @@ $ npm run dev
 
 # Confira se o servidor está em execução. Você deverá receber a seguinte mensagem no terminal:
 $ Server is running on Port 3333
+```
