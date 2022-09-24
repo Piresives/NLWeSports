@@ -100,4 +100,6 @@ $ npm run dev
 # Confira se o servidor está em execução e abra ele no seu navegador preferido. Por padrão, o endereço de execução deverá ser esse:
 $ http://localhost:5173/  
 ```
-
+<p>
+Made with 💚 by Ives Pires 👋 [See my LinkedIn](https://www.linkedin.com/in/ives-pires-de-miranda/)
+</p>
