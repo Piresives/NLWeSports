@@ -71,9 +71,9 @@
 <h4>Pré-requisitos</h4>
 <p>É recomendado que você tenha instalado em sua máquina as seguintes ferramentas:<a href="">Git</a>, <a href="">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como o <a href="">VScode</a>.</p>
 <h4>⚙️ Executando o Backend (server)</h4>
-```bash
-# Clone o projeto para o local desejado em seu computador.
-$ git clone git@github.com:andreviapiana/NLW-eSports-Ignite.git
+<p>Clone o projeto para o local desejado em seu computador.</p>
+
+```$ git clone git@github.com:andreviapiana/NLW-eSports-Ignite.git
 
 # Entre no diretório do BackEnd
 $ cd NLW-eSports-Ignite/server
@@ -86,4 +86,3 @@ $ npm run dev
 
 # Confira se o servidor está em execução. Você deverá receber a seguinte mensagem no terminal:
 $ Server is running on Port 3333
-```
