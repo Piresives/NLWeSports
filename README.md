@@ -44,9 +44,6 @@
 <a href="#ultilizar">Typescript</a>
 </li>
 <li>
-<a href="#Sobre">Expo</a> 
-</li>
-<li>
 <a href="#Layout">Radix UI</a> 
 </li>
 <li>
@@ -67,25 +64,40 @@
 
 <h2>🚀 Como utilizar</h2>
 <p>💡O Frontend precisa que o Backend esteja em execução para funcionar.</p>
-<br>
-<h4>Pré-requisitos</h4>
+<h3>Pré-requisitos</h3>
 <p>É recomendado que você tenha instalado em sua máquina as seguintes ferramentas:<a href="">Git</a>, <a href="">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como o <a href="">VScode</a>.</p>
 <h4>⚙️ Executando o Backend (server)</h4>
-<p></p>
 
 ```bash
-#Clone o projeto para o local desejado em seu computador.
-$ git clone git@github.com:andreviapiana/NLW-eSports-Ignite.git
+# Clone o projeto para o local desejado em seu computador.
+$ git clone git@github.com:Piresives/nlwEsports.git
 
-#Entre no diretório do BackEnd
+# Entre no diretório do BackEnd
 $ cd NLW-eSports-Ignite/server
 
 #Instale as dependências necessárias
 $ npm install
 
-#Inicie a aplicação
+# Inicie a aplicação
 $ npm run dev
 
-#Confira se o servidor está em execução. Você deverá receber a seguinte mensagem no terminal:
+# Confira se o servidor está em execução. Você deverá receber a seguinte mensagem no terminal:
 $ Server is running on Port 3333
 ```
+
+<h4>💻 Executando o Frontend Web (web)</h4>
+
+```bash
+# Entre no diretório do Frontend Web
+$ cd NLW-eSports-Ignite/web
+
+# Instale as dependências necessárias
+$ npm install
+
+# Inicie a aplicação
+$ npm run dev
+
+# Confira se o servidor está em execução e abra ele no seu navegador preferido. Por padrão, o endereço de execução deverá ser esse:
+$ http://localhost:5173/  
+```
+
