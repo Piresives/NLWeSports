@@ -25,7 +25,7 @@
 <img  src="./github/image-2.png" alt="" />
 </h1>
 
-<h2 id="Tecnologia">🛠 Tecnologias</h2>
+<h2 id="Tecnologias">🛠 Tecnologias</h2>
 <p>As seguintes tecnologias foram empregadas na criação deste projeto:</p>
 
 - [ReactJs](https://reactjs.org/)
