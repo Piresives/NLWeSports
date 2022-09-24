@@ -11,11 +11,11 @@
 <a href="#ultilizar">Como ultilizar</a> |
 </p>
 
-<h2>💻 Sobre</h2>
+<h2 id="Sobre">💻 Sobre</h2>
 <p>NLW eSports - É uma aplicação WEB para ajudar os players a encontrarem parceiros para jogarem juntos. O projeto conta com uma lista de games predefinida. Em cada um deles é possível ver os anúncios de outros usuários buscando parceiros, e ainda é possível criar um anúncio para buscar novos colegas de game.</p>
 <br>
 
-<h2>🎨 Layout</h2>
+<h2 id="Layout">🎨 Layout</h2>
 <p>Veja o Layout da aplicação a seguir</p>
 
 <h1 align="center">
@@ -25,47 +25,29 @@
 <img  src="./github/image-2.png" alt="" />
 </h1>
 
-<h2>🛠 Tecnologias</h2>
+<h2 id="Tecnologia">🛠 Tecnologias</h2>
 <p>As seguintes tecnologias foram empregadas na criação deste projeto:</p>
-<ul>
-<li>
-<a href="#Sobre">ReactJs</a> 
-</li>
-<li>
-<a href="#Layout">Node.js</a> 
-</li>
-<li>
-<a href="#Tecnologias">Tailwindcss</a> 
-</li>
-<li>
-<a href="#Infos">Javascript</a> 
-</li>
-<li>
-<a href="#ultilizar">Typescript</a>
-</li>
-<li>
-<a href="#Layout">Radix UI</a> 
-</li>
-<li>
-<a href="#Tecnologias">Phosphoricons</a> 
-</li>
-<li>
-<a href="#Layout">Prisma ORM</a> 
-</li>
-<li>
-<a href="#Tecnologias">Vite</a> 
-</li>
 
-<h2>🚀 Infos</h2>
+-[ReactJs](https://reactjs.org/)
+-[Node.js](https://nodejs.org/en/)
+-[Tailwindcss](https://tailwindcss.com/)
+-[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-[Typescript](https://www.typescriptlang.org/)
+-[Radix UI](https://www.radix-ui.com/)
+-[Phosphoricons](https://phosphoricons.com/)
+-[Prisma ORM](https://www.prisma.io//)
+-[Vite](https://vitejs.dev/)
+
+<h2 id="Infos">🚀 Infos</h2>
 <p>Este projeto é composto por 2 partes distintas:</p>
 <br>
 <p>1. Backend (server)</p>
 <p>2. Frontend (web)</p>
 
-<h2>🚀 Como utilizar</h2>
+<h2 id="ultilizar">🚀 Como utilizar</h2>
 <p>💡O Frontend precisa que o Backend esteja em execução para funcionar.</p>
 <h3>Pré-requisitos</h3>
-<p>É recomendado que você tenha instalado em sua máquina as seguintes ferramentas:<a href="">Git</a>, <a href="">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como o <a href="">VScode</a>.</p>
+<p>É recomendado que você tenha instalado em sua máquina as seguintes ferramentas:<a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como o <a href="https://code.visualstudio.com/">VScode</a>.</p>
 <h4>⚙️ Executando o Backend (server)</h4>
 
 ```bash
@@ -100,6 +82,6 @@ $ npm run dev
 # Confira se o servidor está em execução e abra ele no seu navegador preferido. Por padrão, o endereço de execução deverá ser esse:
 $ http://localhost:5173/  
 ```
-<p>
+
 Made with 💚 by Ives Pires 👋 [See my LinkedIn](https://www.linkedin.com/in/ives-pires-de-miranda/)
-</p>
+
