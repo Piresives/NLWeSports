@@ -62,9 +62,28 @@
 <h2>🚀 Infos</h2>
 <p>Este projeto é composto por 2 partes distintas:</p>
 <br>
-<p>>1. Backend (server)</p>
+<p>1. Backend (server)</p>
 <p>2. Frontend (web)</p>
 
 <h2>🚀 Como utilizar</h2>
 <p>💡O Frontend precisa que o Backend esteja em execução para funcionar.</p>
-<h2>Pré-requisitos</h2>
+<br>
+<h4>Pré-requisitos</h4>
+<p>É recomendado que você tenha instalado em sua máquina as seguintes ferramentas:<a href="">Git</a>, <a href="">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como o <a href="">VScode</a>.</p>
+<h4>⚙️ Executando o Backend (server)</h4>
+´´´bash
+
+# Clone o projeto para o local desejado em seu computador.
+  git clone git@github.com:andreviapiana/NLW-eSports-Ignite.git
+
+# Entre no diretório do BackEnd
+  cd NLW-eSports-Ignite/server
+
+# Instale as dependências necessárias
+  npm install
+
+# Inicie a aplicação
+  npm run dev
+
+# Confira se o servidor está em execução. Você deverá receber a seguinte mensagem no terminal:
+  Server is running on Port 3333
